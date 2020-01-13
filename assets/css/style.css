@@ -1,3 +1,13 @@
 .jumbotron {
     background: transparent;
 }
+
+.history img {
+    position: relative;
+    float: left;
+    width: 50%;
+}
+
+.history .img2 {
+    float: right;
+}
