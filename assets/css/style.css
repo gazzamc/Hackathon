@@ -40,10 +40,17 @@
     position: relative;
     float: left;
     width: 50%;
+    padding: 2%;
 }
 
 .history .img2 {
     float: right;
+    padding: 2%;
+}
+
+.history p {
+    position: relative;
+    top: 20%;
 }
 
 h2 {
