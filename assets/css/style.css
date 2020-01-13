@@ -54,11 +54,16 @@ html {
 
 .history p {
     position: relative;
-    top: 20%;
+    top: 15%;
 }
 
-h2 {
+h2, h3{
     padding-top: 5%;
+}
+
+h3{
+    position: relative;
+    top: 8%;
 }
 
 /*---------------------Contact Form-------------*/
