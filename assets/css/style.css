@@ -125,3 +125,21 @@ form.signup-form {
   background-color: #0C3E08;
   color: #ecf56c;
 }
+
+#attractions{
+    margin-top: 10%;
+}
+
+@media only screen and (max-width: 425px) {
+    #attractions{
+        margin-top: 5%;
+    }
+    .history img {
+        display: none;
+    }
+
+    .history .img2 {
+        display: none;
+    }
+
+}
