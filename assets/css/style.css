@@ -56,3 +56,55 @@
 h2 {
     padding-top: 5%;
 }
+
+/*---------------------Contact Form-------------*/
+.signup-form{
+  margin-top: 50px;
+  color: rgb(8, 8, 8);
+  max-width: 50%;
+  
+}
+.form-group {
+    margin-bottom: 40px;
+}
+.signup-form  h2 {
+color: rgb(8, 8, 8);
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+form.signup-form {
+    margin-left: 25%;
+}
+.signup-form p {
+    font-size: 25px;
+}
+.text-input{
+  color: rgb(8, 8, 8);
+  width: 100%;
+  height: 25px;
+  font-weight: 400;
+  margin: 5px 0 20px 0;
+  border: 1px solid  rgb(8, 8, 8);;
+  border-radius: 2px;
+  
+}
+.form-control{
+    height: 100px;
+}
+
+.join-button{
+  margin-top: 20px;
+  border-radius: 50%;
+  padding: 15px 32px 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #0C3E08;
+  color: #fafafa;
+  display: block;
+  margin-bottom: 200px;
+}
+
+.join-button:hover{
+  background-color: #0C3E08;
+  color: #ecf56c;
+}
