@@ -1,5 +1,17 @@
+
+.bgImg {
+    background: url("../images/header.jpg") no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: center center;
+    background-size:cover; 
+    border: 10px solid rgba(0, 0, 0, 0.4)
+}
+
 .jumbotron {
     background: transparent;
+    width: 100vw;
+    height: 100vh;
 }
 
 .history img {
@@ -10,4 +22,8 @@
 
 .history .img2 {
     float: right;
+}
+
+h2 {
+    padding-top: 5%;
 }
