@@ -115,15 +115,15 @@ form.signup-form {
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #0C3E08;
-  color: #fafafa;
+  background-color: var(--water1);
+  color: var(--white1);
   display: block;
   margin-bottom: 10px;
 }
 
 .join-button:hover{
-  background-color: #0C3E08;
-  color: #ecf56c;
+  background-color: var(--moss1);
+  color: var(--white1);
 }
 
 #attractions{
