@@ -13,6 +13,12 @@
     overflow: hidden;
 }
 
+.jumbotron .display-4{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
 .history img {
     position: relative;
     float: left;
