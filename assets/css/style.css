@@ -16,6 +16,10 @@
   --white5: #bbbac1;
 }
 
+html {
+     scroll-behavior: smooth;
+}
+
 .bgImg {
     background: url("../images/header.jpg") no-repeat fixed;
     height: 100vh;
