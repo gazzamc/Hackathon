@@ -20,6 +20,10 @@ html {
      scroll-behavior: smooth;
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .bgImg {
     background: url("../images/header.jpg") no-repeat fixed;
     height: 100vh;
@@ -55,6 +59,10 @@ html {
 .history p {
     position: relative;
     top: 15%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gelasio', serif;
 }
 
 h2, h3{
@@ -116,18 +124,4 @@ form.signup-form {
 .join-button:hover{
   background-color: #0C3E08;
   color: #ecf56c;
-}
-
-#attractions{
-    margin-top: 10%;
-}
-
-@media only screen and (max-width: 425px) {
-    .history img {
-        display: none;
-    }
-
-    .history .img2 {
-        display: none;
-    }
 }
