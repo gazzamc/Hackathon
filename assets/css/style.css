@@ -1,3 +1,20 @@
+:root {
+  --moss1: #695e18;
+  --moss2: #564e16;
+  --moss3: #635f28;
+  --moss4: #6d672e;
+  --moss5: #695e18;
+  --water1: #437470;
+  --water2: #6b9298;
+  --water3: #a7c1ce;
+  --water4: #5c7c7d;
+  --water5: #639797;
+  --white1: #bdbac1;
+  --white2: #c9ccdd;
+  --white3: #c1c0c9;
+  --white4: #cdd1dd;
+  --white5: #bbbac1;
+}
 
 .bgImg {
     background: url("../images/header.jpg") no-repeat fixed;
